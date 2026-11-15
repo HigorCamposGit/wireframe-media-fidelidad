@@ -3,7 +3,7 @@
 Projeto desenvolvido para o desafio de UX/UI Design da DIO, focado na criação de um wireframe de média fidelidade para uma aplicação web "One Page" de gestão de estudos (*StudyFlow*).
 
 ## 🎯 Sobre o Projeto
-O **StudyFlow** foi concebido para ajudar estudantes a organizar o seu tempo, estruturar matérias e manter o foco através de um painel limpo e intuitivo.
+O **StudyFlow** foi concebido para ajudar estudantes a organizarem o seu tempo, estruturarem matérias e manterem o foco através de um painel limpo e intuitivo.
 
 ## 🧠 Fundamentação Teórica e Usabilidade
 O design e a estruturação das secções seguiram rigorosamente os princípios de psicologia cognitiva, ergonomia e usabilidade:
